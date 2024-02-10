@@ -1,0 +1,7 @@
+string=input("Enter a stringm:")
+print("The string is:",string)
+print("The length of the string is:",len(string))
+print("The string in uppercase is:",string.upper())
+print("The string in lowercase is:",string.lower())
+print("The string in titlecase is:",string.title())
+print("The string in reverse is:",string[::-1])
